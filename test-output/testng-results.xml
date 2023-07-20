@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T13:59:29 EDT" name="Default suite" finished-at="2023-07-20T13:59:32 EDT" duration-ms="2365">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T13:59:29 EDT" name="Default test" finished-at="2023-07-20T13:59:32 EDT" duration-ms="2365">
+      <class name="com.solvd.automation.carina.demo.DummyJsonApiSampleTest">
+        <test-method signature="testCreateProduct()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:29 EDT" name="testCreateProduct" finished-at="2023-07-20T13:59:31 EDT" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateProduct -->
+        <test-method is-config="true" signature="onCarinaAfterMethod()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="onCarinaAfterMethod" finished-at="2023-07-20T13:59:31 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onCarinaAfterMethod -->
+        <test-method signature="testDeleteProduct()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="testDeleteProduct" finished-at="2023-07-20T13:59:31 EDT" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteProduct -->
+        <test-method signature="testGetAllProducts()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="testGetAllProducts" finished-at="2023-07-20T13:59:31 EDT" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllProducts -->
+        <test-method is-config="true" signature="onCarinaAfterMethod()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="onCarinaAfterMethod" finished-at="2023-07-20T13:59:31 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onCarinaAfterMethod -->
+        <test-method signature="testGetSingleProduct()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="testGetSingleProduct" finished-at="2023-07-20T13:59:31 EDT" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleProduct -->
+        <test-method is-config="true" signature="onCarinaAfterMethod()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="onCarinaAfterMethod" finished-at="2023-07-20T13:59:31 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onCarinaAfterMethod -->
+        <test-method signature="testUpdateProduct()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="testUpdateProduct" finished-at="2023-07-20T13:59:32 EDT" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateProduct -->
+        <test-method is-config="true" signature="onCarinaAfterMethod()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:31 EDT" name="onCarinaAfterMethod" finished-at="2023-07-20T13:59:31 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onCarinaAfterMethod -->
+        <test-method is-config="true" signature="onCarinaAfterMethod()[pri:0, instance:com.solvd.automation.carina.demo.DummyJsonApiSampleTest@5d8a1456]" started-at="2023-07-20T13:59:32 EDT" name="onCarinaAfterMethod" finished-at="2023-07-20T13:59:32 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onCarinaAfterMethod -->
+      </class> <!-- com.solvd.automation.carina.demo.DummyJsonApiSampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
