@@ -1,0 +1,62 @@
+[2023-08-13 03:03:20] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=https://text-compare.com
+selenium_url=http://localhost:4444/wd/hub
+auto_screenshot=true
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+browserName=chrome
+===============================================
+
+[2023-08-13 03:03:20] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2023-08-13 03:03:21] [1] [INFO] [TestNG] Running:
+  /private/var/folders/5v/jnxs71890ld_6fcl7vlc2sjh0000gn/T/testng-eclipse--1588341909/testng-customsuite.xml
+
+[2023-08-13 03:03:21] [1] [INFO] Set thread-count=1
+[2023-08-13 03:03:21] [1] [INFO] Set data-provider-thread-count=1
+[2023-08-13 03:03:21] [1] [INFO] CARINA_CORE_VERSION: 1.1.3
+[2023-08-13 03:03:21] [1] [INFO] [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[2023-08-13 03:03:35] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2023-08-13 03:03:35] [1] [INFO] RESULT #1: TEST [Default test - testKeyboardAction] FAIL [screenshots=file:///Volumes/files/src/carina-automation-project/./reports/1691895800511/3f306366-5499-4d47-8ec6-dbc662c29bbc/report.html | log=file:///Volumes/files/src/carina-automation-project/./reports/1691895800511/3f306366-5499-4d47-8ec6-dbc662c29bbc/test.log]
+[2023-08-13 03:03:35] [1] [INFO] [TestNG] Time taken by org.testng.internal.ExitCodeListener@28f663de: 0 ms
+[2023-08-13 03:03:35] [1] [INFO] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2cb95c6c: 5 ms
+[2023-08-13 03:03:35] [1] [INFO] [TestNG] Time taken by org.testng.reporters.jq.Main@31d11998: 14 ms
+[2023-08-13 03:03:35] [1] [INFO] [TestNG] Time taken by org.testng.reporters.FailedReporter@47166740: 4 ms
+[2023-08-13 03:03:35] [1] [INFO] [TestNG] Time taken by org.testng.reporters.XMLReporter@5ec75178: 3 ms
+[2023-08-13 03:03:35] [1] [INFO] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@dcc7d1c: 2 ms
+[2023-08-13 03:03:35] [1] [INFO] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1923301a: 2 ms

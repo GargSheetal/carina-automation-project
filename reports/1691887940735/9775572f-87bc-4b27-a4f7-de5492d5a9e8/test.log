@@ -1,0 +1,8 @@
+[2023-08-13 12:52:22] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-08-13 12:52:22] [1] [INFO] TEST [Default test - testLogin] STARTED at [20:52:22 2023-08-12]
+[2023-08-13 12:52:22] [1] [INFO] Starting driver session...
+[2023-08-13 12:52:23] [1] [INFO] Driver session started.
+[2023-08-13 12:52:23] [1] [INFO] INFO: opening url 'https://www.chase.com/business/login-emob'
+[2023-08-13 12:52:28] [1] [INFO] PASS: keys 'test1234' are sent to element 'username'.
+[2023-08-13 12:52:28] [1] [INFO] PASS: keys 'password' are sent to element 'password'.
+[2023-08-13 12:52:29] [1] [INFO] TEST [Default test - testLogin] PASSED at [20:52:29 2023-08-12]

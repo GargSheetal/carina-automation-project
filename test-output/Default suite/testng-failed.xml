@@ -3,12 +3,12 @@
 <suite thread-count="1" data-provider-thread-count="1" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="1" name="Default test(failed)">
     <classes>
-      <class name="com.solvd.automation.carina.demo.WebSampleTest">
+      <class name="com.automation.practice.web.KeyboardActionsTest">
         <methods>
           <include name="onCarinaAfterMethod"/>
-          <include name="testModelSpecs"/>
+          <include name="testKeyboardAction"/>
         </methods>
-      </class> <!-- com.solvd.automation.carina.demo.WebSampleTest -->
+      </class> <!-- com.automation.practice.web.KeyboardActionsTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
